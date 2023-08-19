@@ -332,7 +332,7 @@
     (property "Value" "Switch_SW_Push" (at 0 -1.524 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 0 5.08 0)
+    (property "Footprint" "KoalaKeeb:Kailh_socket_PG1350" (at 0 5.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 5.08 0)
