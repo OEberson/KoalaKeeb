@@ -1,4 +1,4 @@
-21867535362938556
+21872612960766516
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59815,6 +59815,20 @@ solder jumper open
 5
 3
 KoalaKeeb
+JLC 2Pin
+
+
+0
+2
+1
+KoalaKeeb
+Kailh_socket_PG1350
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+2
+2
+KoalaKeeb
 MSK12C02
 MSK12C02-1
 Switch
@@ -59836,12 +59850,19 @@ SOT95P237X112-3N_IRLML2502
 3
 3
 KoalaKeeb
+TS-1136-4.3
+
+
+0
+2
+2
+KoalaKeeb
 nice!nano
 
 
 0
-27
-27
+24
+24
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
