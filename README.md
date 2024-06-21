@@ -4,4 +4,6 @@ In this repo, I am sharing with you my ideal split keyboard, The KoalaKeeb. It i
 
 Note that the current PCB version has some imperfections that I will improve on in a second revision.
 
+[Link to my layout](https://github.com/OEberson/zmk-config)
+
 ![](gallery/KoalaKeeb_v0.1.jpg)
