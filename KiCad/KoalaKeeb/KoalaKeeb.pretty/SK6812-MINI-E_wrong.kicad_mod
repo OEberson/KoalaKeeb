@@ -1,0 +1,31 @@
+(footprint "SK6812-MINI-E_wrong" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 2.1 unlocked) (layer "F.SilkS")
+      (effects (font (size 0.7 0.7) (thickness 0.15)))
+    (tstamp b766fc3c-ed02-4dc3-b17f-a1cad46dcad2)
+  )
+  (fp_text value "SK6812-MINI-E_wrong" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b87f553f-2fc8-4468-b157-646d3aa76672)
+  )
+  (fp_rect (start -1.6 -1.4) (end 1.6 1.4)
+    (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp 95d0f553-0d90-4433-ba55-2468c8235505))
+  (fp_poly
+    (pts
+      (xy 2.032 2.032)
+      (xy 2.032 1.432)
+      (xy 2.632 1.432)
+    )
+
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.SilkS") (tstamp e79372b7-ee29-4224-a1e0-7d3d94906662))
+  (pad "1" smd rect (at -2.55 -0.75) (size 1.7 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 38ce63f4-089c-46d2-a817-cb6842af4687))
+  (pad "2" smd rect (at -2.55 0.75) (size 1.7 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 192934b8-3ade-49d5-904a-4ef6c872b8d6))
+  (pad "3" smd rect (at 2.55 0.75) (size 1.7 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c4128871-b2a6-400b-9ab4-050fc4cfd34d))
+  (pad "4" smd roundrect (at 2.55 -0.75) (size 1.7 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp cb521085-8556-4f1a-bce1-4da750b5f2e3))
+  (model "/Users/danny/syncproj/kicad-libs/footprints/Keebio-Parts.pretty/3dmodels/SK6812MINI-E v1.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
+)
