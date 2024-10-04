@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KoalaKeeb")(type "KiCad")(uri "${KIPRJMOD}/KoalaKeeb.pretty")(options "")(descr ""))
+)

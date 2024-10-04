@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sweepv2-cache")(type "KiCad")(uri "C:/Users/Ole Eberson/Documents/SplitKeyboard/Sweep/Sweep/Sweep v2.2/sweepv2-cache.kicad_sym")(options "")(descr ""))
+  (lib (name "KoalaKeeb-cache")(type "KiCad")(uri "${KIPRJMOD}/KoalaKeeb-cache.kicad_sym")(options "")(descr ""))
+  (lib (name "1n4148w_SOD-123")(type "KiCad")(uri "${KIPRJMOD}/Symbols/1n4148w_SOD-123.kicad_sym")(options "")(descr ""))
+  (lib (name "IRLML2502")(type "KiCad")(uri "${KIPRJMOD}/Symbols/IRLML2502.kicad_sym")(options "")(descr ""))
+)
